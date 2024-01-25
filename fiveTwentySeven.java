@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+(Display leap years) Write a program that displays all the leap years, 10 per line,
+from 101 to 2100, separated by exactly one space. Also display the number of
+leap years in this period.
  */
 package chapter.pkg5;
 import java.util.*;
