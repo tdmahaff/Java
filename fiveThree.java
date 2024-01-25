@@ -1,7 +1,12 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+(Conversion from kilograms to pounds) Write a program that displays the follow-
+ing table (note 1 kilogram is 2.2 pounds):
+Kilograms Pounds
+1 2.2
+3 6.6
+. . .
+197 433.4
+199 437.8
  */
 package chapter.pkg5;
 import java.util.*;
