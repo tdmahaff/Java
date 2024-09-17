@@ -52,6 +52,4 @@ class Rectangle{
         return 2 * this.width + 2 * this.height;
     }
     
-    
-    
 }
